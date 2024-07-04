@@ -371,6 +371,8 @@ img {
 .image-zoom-wrapper {
   overflow: hidden;
   position: relative;
+  border-top: 3px solid #fff;
+  border-bottom: 3px solid #fff;
 }
 
 .image-zoom-wrapper img {
