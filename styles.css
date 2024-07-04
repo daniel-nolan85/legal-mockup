@@ -76,6 +76,11 @@ img {
   padding-bottom: 4em;
 }
 
+.pad-horz-2x {
+  padding-left: 2em;
+  padding-right: 2em;
+}
+
 .pad-horz-3x {
   padding-left: 3em;
   padding-right: 3em;
